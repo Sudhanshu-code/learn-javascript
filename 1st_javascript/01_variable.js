@@ -11,7 +11,8 @@ pass= "6455"
 country="Bharat"
 
 /*
-don't use let because of block scope and functional scope 
+Prefer not to use var
+because of issue in block scope and functional scope
 */
 
 console.table([email,pass,country]);
