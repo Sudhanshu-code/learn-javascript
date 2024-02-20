@@ -29,7 +29,7 @@ console.log(strinSomenumber) // "220"
 
 let value = 3
 let negValue = -value
-// console.log(negValue);
+// console.log(negValue); //-3
 
 // console.log(2+2);
 // console.log(2-2);
